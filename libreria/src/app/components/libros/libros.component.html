@@ -1,0 +1,11 @@
+<h2>Libros</h2>
+<ul>
+    <li *ngFor="let libro of libros" class="libro">
+        <a [routerLink]="['/libro',libro._id]">
+            <img src="{{url+'get-imagen/'+libro.imagen}}" *ngIf="libro.imagen">
+            <br>
+            {{libro.nombre}} - {{libro.precio}}  
+        </a>
+        <br>
+    </li>
+</ul>

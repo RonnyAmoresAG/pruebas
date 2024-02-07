@@ -1,0 +1,13 @@
+Desarrollo Mean (Mongo, Express, Angukar,NodeJs)
+MondoDB
+*Sql
+  Relaciones
+  Tablas
+  Esquemas
+*NSQL
+  No Relaciones
+  JS como lenguaje de consulta
+  Orienradas a colecciones(json,bson)
+  sebcillaz, Bigdata´
+
+cPanel
